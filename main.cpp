@@ -1,6 +1,4 @@
-//
-//   CS 251: Data Structures and Algorithims
-//   PERSONALITY QUIZ || PROJECT 2 || Prof. Troy
+
 //   Made by: Ryan Ly Joe || RLYJOE2@UIC.EDU
 //      An Overview:
 //          A small personality quiz to compare you to a user!
@@ -8,17 +6,7 @@
 //          The more you answer, the more accurate it is
 //          After answering all questions, simply input which group of-
 //          characters you would like to be compared to.
-//          There are currently 9 options available!
-//          1. Baby Animals
-//          2. Brooklyn99
-//          3. Disney
-//          4. Hogwarts
-//          5. Myers Briggs
-//          6. Sesame Street
-//          7. Star Wars
-//          8. Vegetables
-//          9. Lost Ark Classes (custom)(Comes out 2/8 :D)
-//
+
 #include <set>
 
 #include <vector>
